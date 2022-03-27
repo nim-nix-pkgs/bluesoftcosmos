@@ -11,6 +11,7 @@
   inputs.src-bluesoftcosmos-master.ref   = "refs/heads/master";
   inputs.src-bluesoftcosmos-master.owner = "lurlo";
   inputs.src-bluesoftcosmos-master.repo  = "bluesoftcosmos";
+  inputs.src-bluesoftcosmos-master.dir   = "";
   inputs.src-bluesoftcosmos-master.type  = "gitlab";
   
   inputs."scraper".owner = "nim-nix-pkgs";
